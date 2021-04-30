@@ -13,15 +13,15 @@
 
 <br />
 
-Hi, I'm Tyler García, a passionate self-taught Full Stack web developer and a freelance software engineer from Perú. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hola, soy Tyler García, un apasionado desarrollador web Full Stack autodidacta e ingeniero de software freelance de Perú. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Me preocupo mucho por la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+También soy un entusiasta y mantenedor del código abierto. Aprendí mucho de la comunidad de código abierto y me encanta cómo se realizó la colaboración y el intercambio de conocimientos a través del código abierto.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@TyGarciaR](https://twitter.com/TyGarciaR);
+- 💬 Escribeme sobre cualquier cosa, estoy feliz de poder ayudarte;
+- 📫 Cómo comunicarse conmigo: [@TyGarciaR](https://twitter.com/TyGarciaR);
 
 
 **Languages and Tools:**  
