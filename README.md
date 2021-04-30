@@ -20,7 +20,7 @@ También soy un entusiasta y mantenedor del código abierto. Aprendí mucho de l
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 Escribeme sobre cualquier cosa, estoy feliz de poder ayudarte;
+- 💬 Escribeme sobre cualquier cosa, yo feliz de ayudarte;
 - 📫 Cómo comunicarse conmigo: [@TyGarciaR](https://twitter.com/TyGarciaR);
 
 
