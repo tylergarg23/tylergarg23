@@ -1,12 +1,12 @@
 ### Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="#">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" />
 </a>
 <a href="https://www.linkedin.com/in/tyler-garc%C3%ADa-rodr%C3%ADguez-51838bb9/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
 <a href="https://twitter.com/TyGarciaR">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" />
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tylergarg23.tylergarg23)
