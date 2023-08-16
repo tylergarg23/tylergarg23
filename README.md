@@ -40,7 +40,7 @@ También soy un entusiasta y mantenedor del código abierto. Aprendí mucho de l
 <code><img height="20" src="https://happydevops.com/wp-content/uploads/2020/10/jmeter-logo.png"></code>
 
 
-📊 **This Week I Spent My Time On:**
+📊 **Esta semana dediqué mi tiempo a:**
 <!--START_SECTION:waka-->
 ```text
 JavaScript   9 hrs 1 min     █████████████░░░░░░░░░░░░   52.25 % 
