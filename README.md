@@ -6,7 +6,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/TyGarciaR">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tylergarg23.tylergarg23)
