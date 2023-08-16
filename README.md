@@ -24,14 +24,21 @@ También soy un entusiasta y mantenedor del código abierto. Aprendí mucho de l
 - 📫 Cómo comunicarse conmigo: [@TyGarciaR](https://twitter.com/TyGarciaR);
 
 
-**Languages and Tools:**  
+**Lenguajes y Herramientas:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://www.incredibuild.com/wp-content/uploads/2020/09/azure_devops-1.png"></code>
+<code><img height="20" src="https://agenciapressnoticias.com/wp-content/uploads/2021/05/AWS-logo-2.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/8940/8940782.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"></code>
+<code><img height="20" src="https://sinovi.uk/images/articles/postman-logo-stacked.svg"></code>
+<code><img height="20" src="https://www.ambient-it.net/wp-content/uploads/2022/04/Logo-Jira-200x175-2.png.webp"></code>
+<code><img height="20" src="https://happydevops.com/wp-content/uploads/2020/10/jmeter-logo.png"></code>
+
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -40,6 +47,7 @@ JavaScript   9 hrs 1 min     █████████████░░░░
 C#           5 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   29.36 % 
 SQLServer    2 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
 Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Automation   2 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   18.34 %
+Java         5 hrs           ███████░░░░░░░░░░░░░░░░░░   28.04 % 
 ```
 <!--END_SECTION:waka-->
