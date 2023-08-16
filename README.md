@@ -18,7 +18,7 @@ Hola, soy Tyler García, un apasionado desarrollador web Full Stack autodidacta 
 También soy un entusiasta y mantenedor del código abierto. Aprendí mucho de la comunidad de código abierto y me encanta cómo se realizó la colaboración y el intercambio de conocimientos a través del código abierto.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="357" />
   
 - 💬 Escribeme sobre cualquier cosa, yo feliz de ayudarte;
 - 📫 Cómo comunicarse conmigo: [@TyGarciaR](https://twitter.com/TyGarciaR);
