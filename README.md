@@ -13,9 +13,11 @@
 
 <br />
 
-Hola, soy Tyler García, un apasionado desarrollador web Full Stack autodidacta e ingeniero de software freelance de Perú. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Me preocupo mucho por la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
+Hola, soy Tyler García, tengo 6 años de experiencia en el área de tecnología, de los cuales he dedicado 4 años al área de Calidad de Software. Actualmente, lidero un equipo de 7 personas, con quienes trabajamos en la mejora continua de la calidad de nuestros productos mediante la implementación de las mejores prácticas y tecnologías innovadoras.
 
-También soy un entusiasta y mantenedor del código abierto. Aprendí mucho de la comunidad de código abierto y me encanta cómo se realizó la colaboración y el intercambio de conocimientos a través del código abierto.
+Mi carrera comenzó en el desarrollo de software, donde adquirí una sólida base técnica y una pasión por escribir código limpio y eficiente. Durante 2 años, me desempeñé como consultor, enfocándome en el desarrollo de software y la calidad, lo que fortaleció mi conocimiento en ambos campos. Esta experiencia despertó mi interés en asegurar que cada línea de código cumpla con los más altos estándares de calidad, motivándome a especializarme en el área de Calidad de Software.
+
+Estoy en constante actualización respecto a las nuevas tecnologías del mercado, buscando siempre aprender y aplicar herramientas y metodologías emergentes que contribuyan a mi crecimiento profesional y al éxito de mi equipo. Mi objetivo es seguir desarrollándome como un líder en la industria tecnológica, aportando valor a través de la mejora de la calidad y eficiencia de los procesos de desarrollo de software.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="357" />
